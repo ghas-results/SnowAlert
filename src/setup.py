@@ -36,7 +36,7 @@ setup(
         'pdpyras==4.0',
         'duo_client==4.2.3',
         'cryptography==3.0.0',
-        'requests==2.23.0',
+        'requests==2.31.0',
     ],
     extras_require={
         'dev': [
